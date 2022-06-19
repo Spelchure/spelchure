@@ -6,7 +6,7 @@
 
 ---
 
-### :star: ABOUT ME
+### :star: About Me
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 I am software/electronics engineer
 </p>
