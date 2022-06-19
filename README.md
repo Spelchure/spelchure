@@ -4,7 +4,18 @@
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
  </div>
 
- 
+---
+
+### :star: ABOUT ME
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 I am software/electronics engineer
+</p>
+<p>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :cyclone: and currently working as a <i>Fullstack Web Developer</i>
+</p>
+<p>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rocket: and my main interests are <i>Artifical Intelligence, Machine Learning, Data Science, Blockchain, IoT, Microservices</i>
+</p>
 
 ---
 
