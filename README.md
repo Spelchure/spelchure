@@ -62,6 +62,30 @@
   <img src="https://img.shields.io/badge/NestJS-critical?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS Badge"/>
    <img src="https://img.shields.io/badge/NPM-inactive?logo=npm&logoColor=white&style=for-the-badge" alt="NPM Badge"/>
    <img src="https://img.shields.io/badge/Jenkins-critical?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins Badge"/>
+ 
+ <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes Badge"/>
+<img src="https://img.shields.io/badge/Expressjs-yellow?logo=express&logoColor=white&style=for-the-badge" alt="Expressjs Badge"/>
+<img src="https://img.shields.io/badge/Vim-green?logo=vim&logoColor=white&style=for-the-badge" alt="Vim Badge"/>
+<img src="https://img.shields.io/badge/Mysql-blue?logo=mysql&logoColor=white&style=for-the-badge" alt="Mysql Badge"/>
+<img src="https://img.shields.io/badge/Postgresql-ff69b4?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgresql Badge"/>
+<img src="https://img.shields.io/badge/Mongodb-yellowgreen?logo=mongodb&logoColor=white&style=for-the-badge" alt="Mongodb Badge"/>
+<img src="https://img.shields.io/badge/Elasticsearch-orange?logo=elasticsearch&logoColor=white&style=for-the-badge" alt="Elasticsearch Badge"/>
+<img src="https://img.shields.io/badge/Aws-orange?logo=amazon&logoColor=white&style=for-the-badge" alt="Aws Badge"/>
+<img src="https://img.shields.io/badge/Microservices-red?logo=microservices&logoColor=white&style=for-the-badge" alt="Microservices Badge"/>
+<img src="https://img.shields.io/badge/Git-blueviolet?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/Cmake-green?logo=cmake&logoColor=white&style=for-the-badge" alt="Cmake Badge"/>
+<img src="https://img.shields.io/badge/Stylelint-inactive?logo=stylelint&logoColor=white&style=for-the-badge" alt="Stylelint Badge"/>
+<img src="https://img.shields.io/badge/Jest-ff69b4?logo=jest&logoColor=white&style=for-the-badge" alt="Jest Badge"/>
+<img src="https://img.shields.io/badge/Mocha-brown?logo=mocha&logoColor=white&style=for-the-badge" alt="Mocha Badge"/>
+<img src="https://img.shields.io/badge/Chai-critical?logo=chai&logoColor=white&style=for-the-badge" alt="Chai Badge"/>
+<img src="https://img.shields.io/badge/Sinon-blue?logo=sinonjs&logoColor=white&style=for-the-badge" alt="Sinon Badge"/>
+<img src="https://img.shields.io/badge/Cypress-black?logo=cypress&logoColor=white&style=for-the-badge" alt="Cypress Badge"/>
+<img src="https://img.shields.io/badge/Enzyme-blue?logo=enzyme&logoColor=white&style=for-the-badge" alt="Enzyme Badge"/>
+<img src="https://img.shields.io/badge/Istanbul-yellow?logo=istanbuljs&logoColor=white&style=for-the-badge" alt="Istanbul Badge"/>
+<img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge"/>
+<img src="https://img.shields.io/badge/Lerna-blue?logo=lerna&logoColor=white&style=for-the-badge" alt="Lerna Badge"/>
+<img src="https://img.shields.io/badge/Cassandra-green?logo=cassandradb&logoColor=white&style=for-the-badge" alt="Cassandra Badge"/>
  </p>
  
 ---
