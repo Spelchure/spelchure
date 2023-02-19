@@ -14,7 +14,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :cyclone: and currently working as a <i>Fullstack Web Developer</i>
 </p>
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rocket: and my main interests are <i>Artifical Intelligence, Machine Learning, Data Science, Blockchain, IoT, Microservices</i>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rocket: and my main interests are <i>Software Architecture, Artifical Intelligence, Machine Learning, Data Science, Blockchain, IoT</i>
 </p>
 
 ---
@@ -86,6 +86,7 @@
 <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge"/>
 <img src="https://img.shields.io/badge/Lerna-blue?logo=lerna&logoColor=white&style=for-the-badge" alt="Lerna Badge"/>
 <img src="https://img.shields.io/badge/Cassandra-green?logo=cassandradb&logoColor=white&style=for-the-badge" alt="Cassandra Badge"/>
+ <img src="https://img.shields.io/badge/Clojure-blue?logo=Clojure&logoColor=white&style=for-the-badge" alt="Clojure Badge" />
  </p>
  
 ---
