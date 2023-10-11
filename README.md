@@ -40,6 +40,7 @@
  <img src="https://img.shields.io/badge/C++-red?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/Python-9cf?logo=Python&logoColor=black&style=for-the-badge" alt="Python Badge"/>
  <img src="https://img.shields.io/badge/NodeJS-success?logo=Node.JS&logoColor=white&style=for-the-badge" alt="NodeJS Badge"/>
+ <img src="https://img.shields.io/badge/Angular-red?logo=Angular&logoColor=white&style=for-the-badge" alt="Angular Badge"/>
   <img src="https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=white&style=for-the-badge" alt="ReactJS Badge"/>
  <img src="https://img.shields.io/badge/HTML-critical?logo=HTMl5&logoColor=white&style=for-the-badge" alt="HTML Badge"/>
   <img src="https://img.shields.io/badge/CSS3-blueviolet?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
